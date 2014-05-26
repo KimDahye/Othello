@@ -1,0 +1,5 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\obj\x86\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\obj\x86\Debug\Othello.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\obj\x86\Debug\Othello.pdb

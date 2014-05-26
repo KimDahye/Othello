@@ -1,0 +1,4 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\bin\Release\Othello.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\bin\Release\Othello.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\obj\x86\Release\Othello.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Othello\Othello\obj\x86\Release\Othello.pdb

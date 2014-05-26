@@ -1,0 +1,4 @@
+C:\Users\김다혜\AppData\Local\Temporary Projects\Othelo\bin\Debug\Othelo.exe
+C:\Users\김다혜\AppData\Local\Temporary Projects\Othelo\bin\Debug\Othelo.pdb
+C:\Users\김다혜\AppData\Local\Temporary Projects\Othelo\obj\x86\Debug\Othelo.exe
+C:\Users\김다혜\AppData\Local\Temporary Projects\Othelo\obj\x86\Debug\Othelo.pdb
